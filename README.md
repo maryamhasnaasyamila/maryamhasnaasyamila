@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamhasnaasyamila&label=Profile%20views&color=0e75b6&style=flat" alt="maryamhasnaasyamila" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryamhasnaasyamila" alt="maryamhasnaasyamila" /></a> </p>
-
 - 🌱 I’m currently learning **Frontend, Backend, API, UI/UX**
 
 - 👯 I’m looking to collaborate on **Scrum Project, Web Development, UI/UX Design**
